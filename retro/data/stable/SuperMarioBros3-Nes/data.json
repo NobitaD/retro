@@ -5,12 +5,16 @@
       "type": "|i1"
     },
     "score": {
-      "address": 1813,
-      "type": ">u3"
+      "address": 1812,
+      "type": ">u4"
     },
     "time": {
       "address": 1800,
       "type": ">u4"
+    },
+    "x": {
+      "address": 231,
+      "type": ">=u4"
     }
   }
 }

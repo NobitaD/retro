@@ -1,0 +1,3 @@
+gen 116 extinct level 2
+gen 503 extinct level 4
+gen 63 extinct level 3
